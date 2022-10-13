@@ -10,8 +10,6 @@ public class Q_13pattern {
 
     static void printpattern(int n){
 
-
-
         for(int i=n;i>0;i--){
             System.out.print(i+ " ");
         }
